@@ -1,4 +1,4 @@
 codeset/.env
 
 *.jpg
-*.png
+# *.png
